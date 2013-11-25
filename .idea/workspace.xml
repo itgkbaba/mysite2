@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e3569fe2-73a1-452d-938c-a4c49cbbd054" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/polls2/admin.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/polls2/admin.py" afterPath="$PROJECT_DIR$/polls2/admin.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="mysite2.iws" />
@@ -56,9 +56,9 @@
       <file leaf-file-name="admin.py" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/polls2/admin.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="25" selection-start="90" selection-end="90" vertical-scroll-proportion="0.118421055" vertical-offset="0" max-vertical-offset="380">
+            <state line="12" column="28" selection-start="369" selection-end="369" vertical-scroll-proportion="0.47368422" vertical-offset="0" max-vertical-offset="380">
               <folding>
-                <element signature="e#0#30#0" expanded="true" />
+                <element signature="e#0#38#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -428,7 +428,11 @@
       <created>1385382766896</created>
       <updated>1385382766896</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="admin 2回目&#10;&#10;admin画面設定、Poll反映">
+      <created>1385383139734</created>
+      <updated>1385383139734</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -445,7 +449,7 @@
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32894737" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32894737" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32894737" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -464,7 +468,8 @@
       <TodoPanelSettings />
     </option>
     <MESSAGE value="admin 1回目&#10;&#10;admin画面設定、Poll反映前" />
-    <option name="LAST_COMMIT_MESSAGE" value="admin 1回目&#10;&#10;admin画面設定、Poll反映前" />
+    <MESSAGE value="admin 2回目&#10;&#10;admin画面設定、Poll反映" />
+    <option name="LAST_COMMIT_MESSAGE" value="admin 2回目&#10;&#10;admin画面設定、Poll反映" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -473,13 +478,6 @@
     <entry file="file://$PROJECT_DIR$/manage.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="9" column="39" selection-start="249" selection-end="249" vertical-scroll-proportion="0.31578946" vertical-offset="0" max-vertical-offset="380">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/polls2/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="0" selection-start="440" selection-end="440" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="330">
           <folding />
         </state>
       </provider>
@@ -498,11 +496,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/polls2/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="0" selection-start="440" selection-end="440" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="330">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/polls2/admin.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="25" selection-start="90" selection-end="90" vertical-scroll-proportion="0.118421055" vertical-offset="0" max-vertical-offset="380">
+        <state line="12" column="28" selection-start="369" selection-end="369" vertical-scroll-proportion="0.47368422" vertical-offset="0" max-vertical-offset="380">
           <folding>
-            <element signature="e#0#30#0" expanded="true" />
+            <element signature="e#0#38#0" expanded="true" />
           </folding>
         </state>
       </provider>
