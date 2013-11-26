@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e3569fe2-73a1-452d-938c-a4c49cbbd054" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mysite2/urls.py" afterPath="$PROJECT_DIR$/mysite2/urls.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/polls2/detail.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/polls2/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/polls2/urls.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="mysite2.iws" />
@@ -129,6 +131,7 @@
         <option value="$PROJECT_DIR$/templates/polls2/detail.html" />
         <option value="$PROJECT_DIR$/mysite2/urls.py" />
         <option value="$PROJECT_DIR$/polls2/urls.py" />
+        <option value="$PROJECT_DIR$/templates/polls2/tes.html" />
       </list>
     </option>
   </component>
@@ -542,7 +545,11 @@
       <created>1385465834815</created>
       <updated>1385465834815</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="view 7回目&#10;&#10;URLすっきり">
+      <created>1385468051410</created>
+      <updated>1385468051410</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -606,7 +613,8 @@
     <MESSAGE value="view 4回目&#10;&#10;detailのview、htmlは暫定" />
     <MESSAGE value="view 5回目&#10;&#10;detailのviewすっきりverへ" />
     <MESSAGE value="view 6回目&#10;&#10;detailのテンプレ作成" />
-    <option name="LAST_COMMIT_MESSAGE" value="view 6回目&#10;&#10;detailのテンプレ作成" />
+    <MESSAGE value="view 7回目&#10;&#10;URLすっきり" />
+    <option name="LAST_COMMIT_MESSAGE" value="view 7回目&#10;&#10;URLすっきり" />
     <option name="UPDATE_GROUP_BY_PACKAGES" value="true" />
   </component>
   <component name="XDebuggerManager">
