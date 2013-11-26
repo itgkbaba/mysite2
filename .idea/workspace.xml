@@ -53,10 +53,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="views.py" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="views.py" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/polls2/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="36" selection-start="356" selection-end="356" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="375">
+            <state line="17" column="62" selection-start="666" selection-end="666" vertical-scroll-proportion="0.66233766" vertical-offset="0" max-vertical-offset="385">
               <folding>
                 <element signature="e#0#43#0" expanded="true" />
               </folding>
@@ -64,10 +64,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/polls2/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="12" selection-start="245" selection-end="245" vertical-scroll-proportion="0.33240998" vertical-offset="0" max-vertical-offset="361">
+            <state line="8" column="12" selection-start="245" selection-end="245" vertical-scroll-proportion="-5.0" vertical-offset="0" max-vertical-offset="210">
               <folding />
             </state>
           </provider>
@@ -107,8 +107,8 @@
         <option value="$PROJECT_DIR$/polls2/admin.py" />
         <option value="$PROJECT_DIR$/templates/admin/base_site.html" />
         <option value="$PROJECT_DIR$/mysite2/urls.py" />
-        <option value="$PROJECT_DIR$/polls2/views.py" />
         <option value="$PROJECT_DIR$/templates/polls/index.html" />
+        <option value="$PROJECT_DIR$/polls2/views.py" />
       </list>
     </option>
   </component>
@@ -497,7 +497,11 @@
       <created>1385459001545</created>
       <updated>1385459001545</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="view 2回目&#10;&#10;indexのviewまで作成">
+      <created>1385462719440</created>
+      <updated>1385462719441</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -534,7 +538,7 @@
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32894737" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32736155" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32736155" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32899022" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -556,7 +560,8 @@
     <MESSAGE value="admin 2回目&#10;&#10;admin画面設定、Poll反映" />
     <MESSAGE value="admin 3回目&#10;&#10;admin画面設定、choice反映、画面設定諸々追加" />
     <MESSAGE value="view 1回目&#10;&#10;urlに4つview追加、4つのview仮作成" />
-    <option name="LAST_COMMIT_MESSAGE" value="view 1回目&#10;&#10;urlに4つview追加、4つのview仮作成" />
+    <MESSAGE value="view 2回目&#10;&#10;indexのviewまで作成" />
+    <option name="LAST_COMMIT_MESSAGE" value="view 2回目&#10;&#10;indexのviewまで作成" />
     <option name="UPDATE_GROUP_BY_PACKAGES" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -628,19 +633,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/polls2/views.py">
+    <entry file="file://$PROJECT_DIR$/templates/polls2/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="36" selection-start="356" selection-end="356" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="375">
-          <folding>
-            <element signature="e#0#43#0" expanded="true" />
-          </folding>
+        <state line="8" column="12" selection-start="245" selection-end="245" vertical-scroll-proportion="-5.0" vertical-offset="0" max-vertical-offset="210">
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/polls2/index.html">
+    <entry file="file://$PROJECT_DIR$/polls2/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="12" selection-start="245" selection-end="245" vertical-scroll-proportion="0.33240998" vertical-offset="0" max-vertical-offset="361">
-          <folding />
+        <state line="17" column="62" selection-start="666" selection-end="666" vertical-scroll-proportion="0.66233766" vertical-offset="0" max-vertical-offset="385">
+          <folding>
+            <element signature="e#0#43#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
