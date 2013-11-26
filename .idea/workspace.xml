@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e3569fe2-73a1-452d-938c-a4c49cbbd054" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/polls2/views.py" afterPath="$PROJECT_DIR$/polls2/views.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="mysite2.iws" />
@@ -38,7 +37,7 @@
       <file leaf-file-name="models.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/polls2/models.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="0" selection-start="440" selection-end="440" vertical-scroll-proportion="0.0" vertical-offset="240" max-vertical-offset="330">
+            <state line="16" column="0" selection-start="440" selection-end="440" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="330">
               <folding />
             </state>
           </provider>
@@ -56,7 +55,7 @@
       <file leaf-file-name="views.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/polls2/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="0" selection-start="598" selection-end="598" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="420">
+            <state line="18" column="16" selection-start="684" selection-end="684" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="360">
               <folding>
                 <element signature="e#0#43#0" expanded="true" />
               </folding>
@@ -67,7 +66,7 @@
       <file leaf-file-name="detail.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/templates/polls2/detail.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="10" selection-start="10" selection-end="10" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="338">
+            <state line="5" column="5" selection-start="137" selection-end="137" vertical-scroll-proportion="0.22189349" vertical-offset="0" max-vertical-offset="338">
               <folding />
             </state>
           </provider>
@@ -515,7 +514,15 @@
       <created>1385464071004</created>
       <updated>1385464071005</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="view 4回目&#10;&#10;detailのview、htmlは暫定">
+      <created>1385464334868</created>
+      <updated>1385464334868</updated>
+    </task>
+    <task id="LOCAL-00008" summary="view 5回目&#10;&#10;detailのviewすっきりverへ">
+      <created>1385465099375</created>
+      <updated>1385465099375</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -552,7 +559,7 @@
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32894737" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32736155" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32736155" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32899022" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -576,7 +583,9 @@
     <MESSAGE value="view 1回目&#10;&#10;urlに4つview追加、4つのview仮作成" />
     <MESSAGE value="view 2回目&#10;&#10;indexのviewまで作成" />
     <MESSAGE value="view 3回目&#10;&#10;indexのview、shortcut版作成" />
-    <option name="LAST_COMMIT_MESSAGE" value="view 3回目&#10;&#10;indexのview、shortcut版作成" />
+    <MESSAGE value="view 4回目&#10;&#10;detailのview、htmlは暫定" />
+    <MESSAGE value="view 5回目&#10;&#10;detailのviewすっきりverへ" />
+    <option name="LAST_COMMIT_MESSAGE" value="view 5回目&#10;&#10;detailのviewすっきりverへ" />
     <option name="UPDATE_GROUP_BY_PACKAGES" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -618,13 +627,6 @@
         <state line="9" column="39" selection-start="249" selection-end="249" vertical-scroll-proportion="0.31578946" vertical-offset="0" max-vertical-offset="380" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/polls2/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="0" selection-start="440" selection-end="440" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="330">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/polls2/admin.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="18" column="33" selection-start="544" selection-end="544" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="360">
@@ -655,9 +657,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/polls2/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="0" selection-start="440" selection-end="440" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="330">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/polls2/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="0" selection-start="598" selection-end="598" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="420">
+        <state line="18" column="16" selection-start="684" selection-end="684" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="360">
           <folding>
             <element signature="e#0#43#0" expanded="true" />
           </folding>
@@ -666,7 +675,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/polls2/detail.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="10" selection-start="10" selection-end="10" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="338">
+        <state line="5" column="5" selection-start="137" selection-end="137" vertical-scroll-proportion="0.22189349" vertical-offset="0" max-vertical-offset="338">
           <folding />
         </state>
       </provider>
